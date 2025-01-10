@@ -145,7 +145,7 @@ The API provides the following endpoints:
     *   Replace `{address}` with the Ethereum address you want to remove.
 *   **Example:**
     ```
-    DELETE /remove/0x7a226b9a2d01bdb2fee8d69c3181e1f6e25c6a66
+    GET /remove/0x7a226b9a2d01bdb2fee8d69c3181e1f6e25c6a66
     ```
 *   **Responses:**
     *   **200 OK:**
